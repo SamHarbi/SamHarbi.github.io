@@ -7,9 +7,35 @@
     --h1-color: #EAEAEA;
   }
 
+#d2022{
+
+  position: absolute;
+  padding-right: 25%;
+  opacity: 50%;
+  margin-top: 30px;
+}
+
 .card{
   opacity: 5%;
+  margin-top: 5%;
 }
+
+.grid{
+  display: flexbox;
+}
+
+h1{
+  font-size: 350%;
+}
+
+#topcard{
+  margin-top: 6%;
+}
+
+#bottomcard{
+  margin-top: -11%;
+}
+
 
 .navbar{
   opacity: 0%;
