@@ -3,7 +3,6 @@ import { GLTFLoader } from '/js/Three/GLTFLoader.js';
 
 const loader = new GLTFLoader();
 
-
 let buildingTypes = [3];
 let buildings = [36]; 
 for(let i=0; i<36; i++)
@@ -175,3 +174,7 @@ function animate() {
 };
 
 animate();
+
+
+
+
