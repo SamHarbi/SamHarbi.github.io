@@ -1,5 +1,5 @@
 import * as THREE from 'three';
-import { GLTFLoader } from '../js/Three/GLTFLoader.js';
+import { GLTFLoader } from "../js/Three/GLTFLoader.js";
 
 const loader = new GLTFLoader();
 
