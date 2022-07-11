@@ -1,4 +1,4 @@
-import * as THREE from "three";
+import * as THREE from "../js/Three/three.module.js";
 import { GLTFLoader } from "../js/Three/GLTFLoader.js";
 
 const loader = new GLTFLoader();
